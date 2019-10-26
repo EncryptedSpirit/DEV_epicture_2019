@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Epicture</string>
+
+    <!-- Sharepreference ID -->
+    <string name="sp_auth_data">sharepreference_auth_data</string>
+    <string name="sp_datasave_auth_data">auth_data</string>
+
+    <!-- Request values -->
+    <string name="header_clientId_value">Client-ID 810cbe1b4dc6b81</string>
+    <string name="header_bearer_value">Bearer d87f8c796e47682322b39145c509a0d2c207a4d5</string>
+    <string name="headerAuth">Authorization</string>
+    <string name="auth_url"><![CDATA[https://api.imgur.com/oauth2/authorize?client_id=810cbe1b4dc6b81&response_type=token&state=stable]]></string>
+
+    <!-- Error String -->
+    <string name="error_empty_layout_txt">Oh no :(\n\nThis page is not available at the moment. But we\'re working on it. Come back soon ;)</string>
+    <string name="error_occured">A error occurred</string>
+
+    <!-- BottomNavigationBar names -->
+    <string name="nav_home_txt">Home</string>
+    <string name="nav_search_txt">Search</string>
+    <string name="nav_post_txt">Post</string>
+    <string name="nav_account_txt">Account</string>
+    <string name="search_hint">What do you want to search ?</string>
+    <string name="share">share</string>
+    <string name="report">report</string>
+    <string name="reportmsg">This image has been reported</string>
+    <string name="sharemsg">Maintenance on Tuesday from 10 am to 12pm :^)</string>
+
+</resources>

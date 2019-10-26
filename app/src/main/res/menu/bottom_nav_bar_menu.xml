@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/nav_home_txt"
+        android:icon="@drawable/ic_nav_home" />
+
+    <item
+        android:id="@+id/nav_search"
+        android:title="@string/nav_search_txt"
+        android:icon="@drawable/ic_nav_search" />
+
+    <item
+        android:id="@+id/nav_post"
+        android:title="@string/nav_post_txt"
+        android:icon="@drawable/ic_nav_post" />
+
+    <item
+        android:id="@+id/nav_account"
+        android:title="@string/nav_account_txt"
+        android:icon="@drawable/ic_nav_account" />
+</menu>
