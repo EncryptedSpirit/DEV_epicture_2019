@@ -1,5 +1,6 @@
 # Epicture
 This project is a replica of the app *imgur* using the free API.
+EPITECH PROJECT -> Grade B (can be improve a lot)
 # EPICTURE
 
 ## How to use
