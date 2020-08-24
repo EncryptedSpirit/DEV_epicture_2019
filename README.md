@@ -15,17 +15,17 @@ EPITECH PROJECT
 
 ### Navigate to the App
 
-![Navigate to the app](/howto/find_app.jpg)
+![Navigate to the app](/howto/find_app.jpg =100x20)
 
 ### Connect to imgur
 
-![Navigate to the app](/howto/connect_imgur.jpg)
+![Navigate to the app](/howto/connect_imgur.jpg =100x20)
 
 ## Accessing your feed
 
 ### Scrolling
 
-![Navigate to the app](/howto/my_feed.jpg)
+![Navigate to the app](/howto/my_feed.jpg =100x20)
 
 ### Liking
 
@@ -39,14 +39,14 @@ EPITECH PROJECT
 
 ### Using the searchbar
 
-![Navigate to the app](/howto/empty_search.jpg)
-![Navigate to the app](/howto/search_meme.jpg)
+![Navigate to the app](/howto/empty_search.jpg =100x20)
+![Navigate to the app](/howto/search_meme.jpg =100x20)
 
 ## Uploading an image
 
 ### Uploading from camera
 
-![Navigate to the app](/howto/find_app.jpg)
+![Navigate to the app](/howto/find_app.jpg =100x20)
 
 ### Uploading from gallery
 
