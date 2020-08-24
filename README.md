@@ -41,6 +41,7 @@ EPITECH PROJECT
 ### Using the searchbar
 
 [<img src="/howto/empty_search.jpg" width="250"/>](/howto/empty_search.jpg)
+
 [<img src="/howto/search_meme.jpg" width="250"/>](/howto/search_meme.jpg)
 
 ## Uploading an image
