@@ -15,7 +15,7 @@ EPITECH PROJECT
 
 ### Navigate to the App
 
-![Navigate to the App](/howto/find_app.jpg =100x20)
+![Navigate to the App](/howto/find_app.jpg){ width=50% }
 
 ### Connect to imgur
 
