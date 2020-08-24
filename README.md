@@ -40,14 +40,14 @@ EPITECH PROJECT
 
 ### Using the searchbar
 
-![Navigate to the app](/howto/empty_search.jpg =100x20)
-![Navigate to the app](/howto/search_meme.jpg =100x20)
+[<img src="/howto/empty_search.jpg" width="250"/>](/howto/empty_search.jpg)
+[<img src="/howto/search_meme.jpg" width="250"/>](/howto/search_meme.jpg)
 
 ## Uploading an image
 
 ### Uploading from camera
 
-![Navigate to the app](/howto/find_app.jpg =100x20)
+[<img src="/howto/find_app.jpg" width="250"/>](/howto/find_app.jpg)
 
 ### Uploading from gallery
 
