@@ -19,13 +19,14 @@ EPITECH PROJECT
 
 ### Connect to imgur
 
-![Navigate to the app](/howto/connect_imgur.jpg =100x20)
+[<img src="/howto/connect_imgur.jpg" width="250"/>](/howto/connect_imgur.jpg)
 
 ## Accessing your feed
 
 ### Scrolling
 
-![Navigate to the app](/howto/my_feed.jpg =100x20)
+[<img src="/howto/my_feed.jpg" width="250"/>](/howto/my_feed.jpg)
+
 
 ### Liking
 
